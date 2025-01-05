@@ -1,0 +1,6 @@
+.video {
+  box-sizing: border-box;
+  padding-top: 100px;
+  max-height: 556px;
+  overflow: visible;
+}
